@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+SITEMAP: http://site5425648.lanagroups.com/sitemap.xml
